@@ -16,4 +16,4 @@
      * 3、基本原理就是这样目前还是没有找到能够直接改变弹出视图的方案 如果有的话我再补充<br>
      
 ##下面我们来看一下效果<br>
-![image]()
+![image](https://github.com/mokey1422/gifResourceOther/blob/master/calloutView.gif)
